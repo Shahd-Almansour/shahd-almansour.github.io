@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shahd Almansour \| Medical Researcher"
+title                    : "Shahd Almansour\ | Medical Researcher"
 title_separator          : "-"
 name                     : &name "Shahd Almansour"
 description              : &description "Academic portfolio of Shahd Almansour, medical student and researcher."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -58,7 +58,7 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # Replace this with you Bluesky username
-  facebook         : "" # Username
+  facebook         : "https://www.facebook.com/shahd.al.mansour.840571/" # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -66,13 +66,13 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/shahd-almansour?fbclid=IwY2xjawVnE4pleHRuA2FlbQIxMABwZG9mAWJyaWQRMW52TVIybGxEd0dvSkNHVGxzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEflS_f8LklkUKL2OckgpQNhiADI85-F1W4SubKodkSH0RamM1rWnVH5tHiD7o_aem_2m1IdJFL61fg0XZEq9jAcw"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : ""# URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
